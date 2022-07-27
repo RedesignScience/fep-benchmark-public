@@ -1,7 +1,7 @@
 
 # FEP Benchmarks 
 
-This repo serves 3 purposes:
+This repo serves 2 purposes:
 - stores a reference set of data for ligand-binding systems for bench-marking
 - demonstrates the recommended way of storing large sets of simulation data
 
