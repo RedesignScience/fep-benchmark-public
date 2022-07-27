@@ -33,7 +33,7 @@ Download source data: <https://zenodo.org/record/3459811#.YoSkgy8RqX3>
 
 Prepared structures for all receptor complexes are stored as PDB files in the `pdb` directory. These have been extracted from the `reference` directory.
 
-The structures are ready to simulate, with no water molecules, and the ligand renamed to `LIG`. 
+The structures are ready to simulate, with no water molecules, and the ligand renamed to `UNL`. 
 
 
 
