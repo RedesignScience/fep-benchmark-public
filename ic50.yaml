@@ -1,0 +1,1761 @@
+cdk8:
+  '1':
+    dg_kcal_per_mol: -11.941181128515709
+    experiment:
+    - -11.941181128515709
+    ic50_nm: 2.0
+    title: '43'
+  '10':
+    dg_kcal_per_mol: -11.941181128515709
+    experiment:
+    - -11.941181128515709
+    ic50_nm: 2.0
+    title: '31'
+  '11':
+    dg_kcal_per_mol: -11.286231022924783
+    experiment:
+    - -11.286231022924783
+    ic50_nm: 6.0
+    title: '41'
+  '12':
+    dg_kcal_per_mol: -9.258568846529657
+    experiment:
+    - -9.258568846529657
+    ic50_nm: 180.0
+    title: '29'
+  '13':
+    dg_kcal_per_mol: -10.218053408611775
+    experiment:
+    - -10.218053408611775
+    ic50_nm: 36.0
+    title: '26'
+  '14':
+    dg_kcal_per_mol: -10.70149860234946
+    experiment:
+    - -10.70149860234946
+    ic50_nm: 16.0
+    title: '20'
+  '15':
+    dg_kcal_per_mol: -11.527953619793625
+    experiment:
+    - -11.527953619793625
+    ic50_nm: 4.0
+    title: '42'
+  '16':
+    dg_kcal_per_mol: -11.527953619793625
+    experiment:
+    - -11.527953619793625
+    ic50_nm: 4.0
+    title: '35'
+  '17':
+    dg_kcal_per_mol: -11.527953619793625
+    experiment:
+    - -11.527953619793625
+    ic50_nm: 4.0
+    title: '44'
+  '18':
+    dg_kcal_per_mol: -10.981696566433593
+    experiment:
+    - -10.981696566433593
+    ic50_nm: 10.0
+    title: '18'
+  '19':
+    dg_kcal_per_mol: -11.19433235669725
+    experiment:
+    - -11.19433235669725
+    ic50_nm: 7.0
+    title: '40'
+  '2':
+    dg_kcal_per_mol: -8.995165268448886
+    experiment:
+    - -8.995165268448886
+    ic50_nm: 280.0
+    title: '17'
+  '20':
+    dg_kcal_per_mol: -10.739973969564748
+    experiment:
+    - -10.739973969564748
+    ic50_nm: 15.0
+    title: '19'
+  '21':
+    dg_kcal_per_mol: -11.114726111071542
+    experiment:
+    - -11.114726111071542
+    ic50_nm: 8.0
+    title: '33'
+  '22':
+    dg_kcal_per_mol: -8.466189462105463
+    experiment:
+    - -8.466189462105463
+    ic50_nm: 680.0
+    title: '27'
+  '23':
+    dg_kcal_per_mol: -11.286231022924783
+    experiment:
+    - -11.286231022924783
+    ic50_nm: 6.0
+    title: '13'
+  '24':
+    dg_kcal_per_mol: -11.527953619793625
+    experiment:
+    - -11.527953619793625
+    ic50_nm: 4.0
+    title: '39'
+  '25':
+    dg_kcal_per_mol: -9.552164257069698
+    experiment:
+    - -9.552164257069698
+    ic50_nm: 110.0
+    title: '32'
+  '26':
+    dg_kcal_per_mol: -11.527953619793625
+    experiment:
+    - -11.527953619793625
+    ic50_nm: 4.0
+    title: '37'
+  '27':
+    dg_kcal_per_mol: -9.016846249660814
+    experiment:
+    - -9.016846249660814
+    ic50_nm: 270.0
+    title: '23'
+  '28':
+    dg_kcal_per_mol: -7.69001537146516
+    experiment:
+    - -7.69001537146516
+    ic50_nm: 2500.0
+    title: '15'
+  '29':
+    dg_kcal_per_mol: -11.19433235669725
+    experiment:
+    - -11.19433235669725
+    ic50_nm: 7.0
+    title: '34'
+  '3':
+    dg_kcal_per_mol: -6.20861024843007
+    experiment:
+    - -6.20861024843007
+    ic50_nm: 30000.0
+    title: '28'
+  '30':
+    dg_kcal_per_mol: -9.796602855345037
+    experiment:
+    - -9.796602855345037
+    ic50_nm: 73.0
+    title: '25'
+  '31':
+    dg_kcal_per_mol: -8.340215162857959
+    experiment:
+    - -8.340215162857959
+    ic50_nm: 840.0
+    title: '14'
+  '32':
+    dg_kcal_per_mol: -11.19433235669725
+    experiment:
+    - -11.19433235669725
+    ic50_nm: 7.0
+    title: '45'
+  '33':
+    dg_kcal_per_mol: -11.286231022924783
+    experiment:
+    - -11.286231022924783
+    ic50_nm: 6.0
+    title: '36'
+  '4':
+    dg_kcal_per_mol: -10.288271093627378
+    experiment:
+    - -10.288271093627378
+    ic50_nm: 32.0
+    title: '22'
+  '5':
+    dg_kcal_per_mol: -9.29264447954963
+    experiment:
+    - -9.29264447954963
+    ic50_nm: 170.0
+    title: '16'
+  '6':
+    dg_kcal_per_mol: -11.699458531646865
+    experiment:
+    - -11.699458531646865
+    ic50_nm: 3.0
+    title: '30'
+  '7':
+    dg_kcal_per_mol: -9.757107537021094
+    experiment:
+    - -9.757107537021094
+    ic50_nm: 78.0
+    title: '21'
+  '8':
+    dg_kcal_per_mol: -10.346957253202
+    experiment:
+    - -10.346957253202
+    ic50_nm: 29.0
+    title: '24'
+  '9':
+    dg_kcal_per_mol: -11.394924075155673
+    experiment:
+    - -11.394924075155673
+    ic50_nm: 5.0
+    title: '38'
+cmet:
+  '1':
+    dg_kcal_per_mol: -9.19575698690731
+    experiment:
+    - -9.19575698690731
+    ic50_nm: 200.0
+    title: CHEMBL3402753_200
+  '10':
+    dg_kcal_per_mol: -7.380730600775844
+    experiment:
+    - -7.380730600775844
+    ic50_nm: 4200.0
+    title: CHEMBL3402755_4200
+  '11':
+    dg_kcal_per_mol: -10.981696566433593
+    experiment:
+    - -10.981696566433593
+    ic50_nm: 10.0
+    title: CHEMBL3402758_10
+  '12':
+    dg_kcal_per_mol: -8.649499933547276
+    experiment:
+    - -8.649499933547276
+    ic50_nm: 500.0
+    title: CHEMBL3402749_500
+  '13':
+    dg_kcal_per_mol: -11.238512660056186
+    experiment:
+    - -11.238512660056186
+    ic50_nm: 6.5
+    title: CHEMBL3402757_6.5
+  '14':
+    dg_kcal_per_mol: -10.924876327873898
+    experiment:
+    - -10.924876327873898
+    ic50_nm: 11.0
+    title: CHEMBL3402765_11-charged-pKa-8.1
+  '15':
+    dg_kcal_per_mol: -12.35440863723779
+    experiment:
+    - -12.35440863723779
+    ic50_nm: 1.0
+    title: CHEMBL3402762_1
+  '16':
+    dg_kcal_per_mol: -10.48514839958636
+    experiment:
+    - -10.48514839958636
+    ic50_nm: 23.0
+    title: CHEMBL3402742_23
+  '17':
+    dg_kcal_per_mol: -10.155241548989428
+    experiment:
+    - -10.155241548989428
+    ic50_nm: 40.0
+    title: CHEMBL3402754_40
+  '18':
+    dg_kcal_per_mol: -7.2420501960319825
+    experiment:
+    - -7.2420501960319825
+    ic50_nm: 5300.0
+    title: CHEMBL3402748_5300
+  '19':
+    dg_kcal_per_mol: -8.782529478185227
+    experiment:
+    - -8.782529478185227
+    ic50_nm: 400.0
+    title: CHEMBL3402741_400
+  '2':
+    dg_kcal_per_mol: -11.316810098838781
+    experiment:
+    - -11.316810098838781
+    ic50_nm: 5.7
+    title: CHEMBL3402759_5.7
+  '20':
+    dg_kcal_per_mol: -9.67179635525174
+    experiment:
+    - -9.67179635525174
+    ic50_nm: 90.0
+    title: CHEMBL3402763_90
+  '21':
+    dg_kcal_per_mol: -9.67179635525174
+    experiment:
+    - -9.67179635525174
+    ic50_nm: 90.0
+    title: CHEMBL3402764_90
+  '22':
+    dg_kcal_per_mol: -7.793958109497926
+    experiment:
+    - -7.793958109497926
+    ic50_nm: 2100.0
+    title: CHEMBL3402751_2100
+  '23':
+    dg_kcal_per_mol: -11.762270391269212
+    experiment:
+    - -11.762270391269212
+    ic50_nm: 2.7
+    title: CHEMBL3402756_2.7
+  '24':
+    dg_kcal_per_mol: -12.35440863723779
+    experiment:
+    - -12.35440863723779
+    ic50_nm: 1.0
+    title: CHEMBL3402760_1
+  '3':
+    dg_kcal_per_mol: -7.506704900023346
+    experiment:
+    - -7.506704900023346
+    ic50_nm: 3400.0
+    title: CHEMBL3402747_3400
+  '4':
+    dg_kcal_per_mol: -8.954034390038467
+    experiment:
+    - -8.954034390038467
+    ic50_nm: 300.0
+    title: CHEMBL3402744_300
+  '5':
+    dg_kcal_per_mol: -9.19575698690731
+    experiment:
+    - -9.19575698690731
+    ic50_nm: 200.0
+    title: CHEMBL3402745_200
+  '6':
+    dg_kcal_per_mol: -12.35440863723779
+    experiment:
+    - -12.35440863723779
+    ic50_nm: 1.0
+    title: CHEMBL3402761_1
+  '7':
+    dg_kcal_per_mol: -8.782529478185227
+    experiment:
+    - -8.782529478185227
+    ic50_nm: 400.0
+    title: CHEMBL3402750_400
+  '8':
+    dg_kcal_per_mol: -10.126154742384243
+    experiment:
+    - -10.126154742384243
+    ic50_nm: 42.0
+    title: CHEMBL3402743_42
+  '9':
+    dg_kcal_per_mol: -6.20861024843007
+    experiment:
+    - -6.20861024843007
+    ic50_nm: 30000.0
+    title: CHEMBL3402752_30000
+eg5:
+  '1':
+    dg_kcal_per_mol: -10.665356550353826
+    experiment:
+    - -10.665356550353826
+    ic50_nm: 17.0
+    title: CHEMBL1078774
+  '10':
+    dg_kcal_per_mol: -9.865800589251984
+    experiment:
+    - -9.865800589251984
+    ic50_nm: 65.0
+    title: CHEMBL1084431
+  '11':
+    dg_kcal_per_mol: -10.924876327873898
+    experiment:
+    - -10.924876327873898
+    ic50_nm: 11.0
+    title: CHEMBL1085895
+  '12':
+    dg_kcal_per_mol: -11.527953619793625
+    experiment:
+    - -11.527953619793625
+    ic50_nm: 4.0
+    title: CHEMBL1084677
+  '13':
+    dg_kcal_per_mol: -11.394924075155673
+    experiment:
+    - -11.394924075155673
+    ic50_nm: 5.0
+    title: CHEMBL1077227
+  '14':
+    dg_kcal_per_mol: -11.527953619793625
+    experiment:
+    - -11.527953619793625
+    ic50_nm: 4.0
+    title: CHEMBL1086410
+  '15':
+    dg_kcal_per_mol: -11.527953619793625
+    experiment:
+    - -11.527953619793625
+    ic50_nm: 4.0
+    title: CHEMBL1083517
+  '16':
+    dg_kcal_per_mol: -11.941181128515709
+    experiment:
+    - -11.941181128515709
+    ic50_nm: 2.0
+    title: CHEMBL1096003
+  '17':
+    dg_kcal_per_mol: -11.114726111071542
+    experiment:
+    - -11.114726111071542
+    ic50_nm: 8.0
+    title: CHEMBL1077204
+  '18':
+    dg_kcal_per_mol: -10.924876327873898
+    experiment:
+    - -10.924876327873898
+    ic50_nm: 11.0
+    title: CHEMBL1083836
+  '19':
+    dg_kcal_per_mol: -10.568469057711507
+    experiment:
+    - -10.568469057711507
+    ic50_nm: 20.0
+    title: CHEMBL1085666
+  '2':
+    dg_kcal_per_mol: -10.599048133625505
+    experiment:
+    - -10.599048133625505
+    ic50_nm: 19.0
+    title: CHEMBL1093087
+  '20':
+    dg_kcal_per_mol: -11.394924075155673
+    experiment:
+    - -11.394924075155673
+    ic50_nm: 5.0
+    title: CHEMBL1085692
+  '21':
+    dg_kcal_per_mol: -11.941181128515709
+    experiment:
+    - -11.941181128515709
+    ic50_nm: 2.0
+    title: CHEMBL1084143
+  '22':
+    dg_kcal_per_mol: -11.19433235669725
+    experiment:
+    - -11.19433235669725
+    ic50_nm: 7.0
+    title: CHEMBL1096002
+  '23':
+    dg_kcal_per_mol: -9.500291443398499
+    experiment:
+    - -9.500291443398499
+    ic50_nm: 120.0
+    title: CHEMBL1089056
+  '24':
+    dg_kcal_per_mol: -11.286231022924783
+    experiment:
+    - -11.286231022924783
+    ic50_nm: 6.0
+    title: CHEMBL1093088
+  '25':
+    dg_kcal_per_mol: -10.781104847975167
+    experiment:
+    - -10.781104847975167
+    ic50_nm: 14.0
+    title: CHEMBL1084676
+  '26':
+    dg_kcal_per_mol: -10.599048133625505
+    experiment:
+    - -10.599048133625505
+    ic50_nm: 19.0
+    title: CHEMBL1084935
+  '27':
+    dg_kcal_per_mol: -10.435439513073558
+    experiment:
+    - -10.435439513073558
+    ic50_nm: 25.0
+    title: CHEMBL1078998
+  '28':
+    dg_kcal_per_mol: -8.753442671580043
+    experiment:
+    - -8.753442671580043
+    ic50_nm: 420.0
+    title: CHEMBL1088740
+  '3':
+    dg_kcal_per_mol: -11.286231022924783
+    experiment:
+    - -11.286231022924783
+    ic50_nm: 6.0
+    title: CHEMBL1082249
+  '4':
+    dg_kcal_per_mol: -8.432113829085491
+    experiment:
+    - -8.432113829085491
+    ic50_nm: 720.0
+    title: CHEMBL1089393
+  '5':
+    dg_kcal_per_mol: -10.252129041631742
+    experiment:
+    - -10.252129041631742
+    ic50_nm: 34.0
+    title: CHEMBL1078691
+  '6':
+    dg_kcal_per_mol: -9.933729744479917
+    experiment:
+    - -9.933729744479917
+    ic50_nm: 58.0
+    title: CHEMBL1086409
+  '7':
+    dg_kcal_per_mol: -11.699458531646865
+    experiment:
+    - -11.699458531646865
+    ic50_nm: 3.0
+    title: CHEMBL1082248
+  '8':
+    dg_kcal_per_mol: -11.19433235669725
+    experiment:
+    - -11.19433235669725
+    ic50_nm: 7.0
+    title: CHEMBL1084678
+  '9':
+    dg_kcal_per_mol: -9.500291443398499
+    experiment:
+    - -9.500291443398499
+    ic50_nm: 120.0
+    title: CHEMBL1084115
+eg5alt:
+  '1':
+    dg_kcal_per_mol: -10.665356550353826
+    experiment:
+    - -10.665356550353826
+    ic50_nm: 17.0
+    title: CHEMBL1078774
+  '10':
+    dg_kcal_per_mol: -9.865800589251984
+    experiment:
+    - -9.865800589251984
+    ic50_nm: 65.0
+    title: CHEMBL1084431
+  '11':
+    dg_kcal_per_mol: -10.924876327873898
+    experiment:
+    - -10.924876327873898
+    ic50_nm: 11.0
+    title: CHEMBL1085895
+  '12':
+    dg_kcal_per_mol: -11.527953619793625
+    experiment:
+    - -11.527953619793625
+    ic50_nm: 4.0
+    title: CHEMBL1084677
+  '13':
+    dg_kcal_per_mol: -11.394924075155673
+    experiment:
+    - -11.394924075155673
+    ic50_nm: 5.0
+    title: CHEMBL1077227
+  '14':
+    dg_kcal_per_mol: -11.527953619793625
+    experiment:
+    - -11.527953619793625
+    ic50_nm: 4.0
+    title: CHEMBL1086410
+  '15':
+    dg_kcal_per_mol: -11.527953619793625
+    experiment:
+    - -11.527953619793625
+    ic50_nm: 4.0
+    title: CHEMBL1083517
+  '16':
+    dg_kcal_per_mol: -11.941181128515709
+    experiment:
+    - -11.941181128515709
+    ic50_nm: 2.0
+    title: CHEMBL1096003
+  '17':
+    dg_kcal_per_mol: -11.114726111071542
+    experiment:
+    - -11.114726111071542
+    ic50_nm: 8.0
+    title: CHEMBL1077204
+  '18':
+    dg_kcal_per_mol: -10.924876327873898
+    experiment:
+    - -10.924876327873898
+    ic50_nm: 11.0
+    title: CHEMBL1083836
+  '19':
+    dg_kcal_per_mol: -10.568469057711507
+    experiment:
+    - -10.568469057711507
+    ic50_nm: 20.0
+    title: CHEMBL1085666
+  '2':
+    dg_kcal_per_mol: -10.599048133625505
+    experiment:
+    - -10.599048133625505
+    ic50_nm: 19.0
+    title: CHEMBL1093087
+  '20':
+    dg_kcal_per_mol: -11.394924075155673
+    experiment:
+    - -11.394924075155673
+    ic50_nm: 5.0
+    title: CHEMBL1085692
+  '21':
+    dg_kcal_per_mol: -11.941181128515709
+    experiment:
+    - -11.941181128515709
+    ic50_nm: 2.0
+    title: CHEMBL1084143
+  '22':
+    dg_kcal_per_mol: -11.19433235669725
+    experiment:
+    - -11.19433235669725
+    ic50_nm: 7.0
+    title: CHEMBL1096002
+  '23':
+    dg_kcal_per_mol: -9.500291443398499
+    experiment:
+    - -9.500291443398499
+    ic50_nm: 120.0
+    title: CHEMBL1089056
+  '24':
+    dg_kcal_per_mol: -11.286231022924783
+    experiment:
+    - -11.286231022924783
+    ic50_nm: 6.0
+    title: CHEMBL1093088
+  '25':
+    dg_kcal_per_mol: -10.781104847975167
+    experiment:
+    - -10.781104847975167
+    ic50_nm: 14.0
+    title: CHEMBL1084676
+  '26':
+    dg_kcal_per_mol: -10.599048133625505
+    experiment:
+    - -10.599048133625505
+    ic50_nm: 19.0
+    title: CHEMBL1084935
+  '27':
+    dg_kcal_per_mol: -10.435439513073558
+    experiment:
+    - -10.435439513073558
+    ic50_nm: 25.0
+    title: CHEMBL1078998
+  '28':
+    dg_kcal_per_mol: -8.753442671580043
+    experiment:
+    - -8.753442671580043
+    ic50_nm: 420.0
+    title: CHEMBL1088740
+  '3':
+    dg_kcal_per_mol: -11.286231022924783
+    experiment:
+    - -11.286231022924783
+    ic50_nm: 6.0
+    title: CHEMBL1082249
+  '4':
+    dg_kcal_per_mol: -8.432113829085491
+    experiment:
+    - -8.432113829085491
+    ic50_nm: 720.0
+    title: CHEMBL1089393
+  '5':
+    dg_kcal_per_mol: -10.252129041631742
+    experiment:
+    - -10.252129041631742
+    ic50_nm: 34.0
+    title: CHEMBL1078691
+  '6':
+    dg_kcal_per_mol: -9.933729744479917
+    experiment:
+    - -9.933729744479917
+    ic50_nm: 58.0
+    title: CHEMBL1086409
+  '7':
+    dg_kcal_per_mol: -11.699458531646865
+    experiment:
+    - -11.699458531646865
+    ic50_nm: 3.0
+    title: CHEMBL1082248
+  '8':
+    dg_kcal_per_mol: -11.19433235669725
+    experiment:
+    - -11.19433235669725
+    ic50_nm: 7.0
+    title: CHEMBL1084678
+  '9':
+    dg_kcal_per_mol: -9.500291443398499
+    experiment:
+    - -9.500291443398499
+    ic50_nm: 120.0
+    title: CHEMBL1084115
+hif2a:
+  '1':
+    dg_kcal_per_mol: -10.825285151334102
+    experiment:
+    - -10.825285151334102
+    ic50_nm: 13.0
+    title: '338'
+  '10':
+    dg_kcal_per_mol: -10.185820624903423
+    experiment:
+    - -10.185820624903423
+    ic50_nm: 38.0
+    title: '206'
+  '11':
+    dg_kcal_per_mol: -10.234847794615135
+    experiment:
+    - -10.234847794615135
+    ic50_nm: 35.0
+    title: '67'
+  '12':
+    dg_kcal_per_mol: -9.796602855345037
+    experiment:
+    - -9.796602855345037
+    ic50_nm: 73.0
+    title: '156'
+  '13':
+    dg_kcal_per_mol: -8.897214151478774
+    experiment:
+    - -8.897214151478774
+    ic50_nm: 330.0
+    title: '31'
+  '14':
+    dg_kcal_per_mol: -10.981696566433593
+    experiment:
+    - -10.981696566433593
+    ic50_nm: 10.0
+    title: '289'
+  '15':
+    dg_kcal_per_mol: -10.170335045743176
+    experiment:
+    - -10.170335045743176
+    ic50_nm: 39.0
+    title: '61'
+  '16':
+    dg_kcal_per_mol: -10.739973969564748
+    experiment:
+    - -10.739973969564748
+    ic50_nm: 15.0
+    title: '167'
+  '17':
+    dg_kcal_per_mol: -9.29264447954963
+    experiment:
+    - -9.29264447954963
+    ic50_nm: 170.0
+    title: '165'
+  '18':
+    dg_kcal_per_mol: -9.84773371337897
+    experiment:
+    - -9.84773371337897
+    ic50_nm: 67.0
+    title: '41'
+  '19':
+    dg_kcal_per_mol: -7.440396483295026
+    experiment:
+    - -7.440396483295026
+    ic50_nm: 3800.0
+    title: 7b
+  '2':
+    dg_kcal_per_mol: -8.753442671580043
+    experiment:
+    - -8.753442671580043
+    ic50_nm: 420.0
+    title: '43'
+  '20':
+    dg_kcal_per_mol: -9.367261898760548
+    experiment:
+    - -9.367261898760548
+    ic50_nm: 150.0
+    title: '54'
+  '21':
+    dg_kcal_per_mol: -10.665356550353826
+    experiment:
+    - -10.665356550353826
+    ic50_nm: 17.0
+    title: '215'
+  '22':
+    dg_kcal_per_mol: -10.739973969564748
+    experiment:
+    - -10.739973969564748
+    ic50_nm: 15.0
+    title: '57'
+  '23':
+    dg_kcal_per_mol: -8.995165268448886
+    experiment:
+    - -8.995165268448886
+    ic50_nm: 280.0
+    title: '42'
+  '24':
+    dg_kcal_per_mol: -7.1986738864261826
+    experiment:
+    - -7.1986738864261826
+    ic50_nm: 5700.0
+    title: '35'
+  '25':
+    dg_kcal_per_mol: -9.772593116181342
+    experiment:
+    - -9.772593116181342
+    ic50_nm: 76.0
+    title: '252'
+  '26':
+    dg_kcal_per_mol: -9.884432145515397
+    experiment:
+    - -9.884432145515397
+    ic50_nm: 63.0
+    title: '336'
+  '27':
+    dg_kcal_per_mol: -10.631280917333855
+    experiment:
+    - -10.631280917333855
+    ic50_nm: 18.0
+    title: '290'
+  '28':
+    dg_kcal_per_mol: -10.568469057711507
+    experiment:
+    - -10.568469057711507
+    ic50_nm: 20.0
+    title: '155'
+  '29':
+    dg_kcal_per_mol: -6.806740115461301
+    experiment:
+    - -6.806740115461301
+    ic50_nm: 11000.0
+    title: '164'
+  '3':
+    dg_kcal_per_mol: -10.185820624903423
+    experiment:
+    - -10.185820624903423
+    ic50_nm: 38.0
+    title: '235'
+  '30':
+    dg_kcal_per_mol: -10.059099724083586
+    experiment:
+    - -10.059099724083586
+    ic50_nm: 47.0
+    title: 7a
+  '31':
+    dg_kcal_per_mol: -9.720066975017257
+    experiment:
+    - -9.720066975017257
+    ic50_nm: 83.0
+    title: '224'
+  '32':
+    dg_kcal_per_mol: -7.622453197644687
+    experiment:
+    - -7.622453197644687
+    ic50_nm: 2800.0
+    title: '84'
+  '33':
+    dg_kcal_per_mol: -9.608984495629393
+    experiment:
+    - -9.608984495629393
+    ic50_nm: 100.0
+    title: '254'
+  '34':
+    dg_kcal_per_mol: -7.1112745719524915
+    experiment:
+    - -7.1112745719524915
+    ic50_nm: 6600.0
+    title: '23'
+  '35':
+    dg_kcal_per_mol: -10.307198438176487
+    experiment:
+    - -10.307198438176487
+    ic50_nm: 31.0
+    title: '251'
+  '36':
+    dg_kcal_per_mol: -10.739973969564748
+    experiment:
+    - -10.739973969564748
+    ic50_nm: 15.0
+    title: '256'
+  '37':
+    dg_kcal_per_mol: -9.757107537021094
+    experiment:
+    - -9.757107537021094
+    ic50_nm: 78.0
+    title: '50'
+  '38':
+    dg_kcal_per_mol: -10.085023863973822
+    experiment:
+    - -10.085023863973822
+    ic50_nm: 45.0
+    title: '231'
+  '39':
+    dg_kcal_per_mol: -11.114726111071542
+    experiment:
+    - -11.114726111071542
+    ic50_nm: 8.0
+    title: '15'
+  '4':
+    dg_kcal_per_mol: -10.41205764261202
+    experiment:
+    - -10.41205764261202
+    ic50_nm: 26.0
+    title: '234'
+  '40':
+    dg_kcal_per_mol: -10.185820624903423
+    experiment:
+    - -10.185820624903423
+    ic50_nm: 38.0
+    title: '124'
+  '41':
+    dg_kcal_per_mol: -10.346957253202
+    experiment:
+    - -10.346957253202
+    ic50_nm: 29.0
+    title: '25'
+  '42':
+    dg_kcal_per_mol: -11.078584059075908
+    experiment:
+    - -11.078584059075908
+    ic50_nm: 8.5
+    title: '163'
+  '5':
+    dg_kcal_per_mol: -10.631280917333855
+    experiment:
+    - -10.631280917333855
+    ic50_nm: 18.0
+    title: '30'
+  '6':
+    dg_kcal_per_mol: -11.394924075155673
+    experiment:
+    - -11.394924075155673
+    ic50_nm: 5.0
+    title: '1'
+  '7':
+    dg_kcal_per_mol: -9.608984495629393
+    experiment:
+    - -9.608984495629393
+    ic50_nm: 100.0
+    title: '237'
+  '8':
+    dg_kcal_per_mol: -10.825285151334102
+    experiment:
+    - -10.825285151334102
+    ic50_nm: 13.0
+    title: '227'
+  '9':
+    dg_kcal_per_mol: -10.599048133625505
+    experiment:
+    - -10.599048133625505
+    ic50_nm: 19.0
+    title: '266'
+pfkfb3:
+  '1':
+    dg_kcal_per_mol: -8.0472904165662
+    experiment:
+    - -8.0472904165662
+    ic50_nm: 1373.0
+    title: '43'
+  '10':
+    dg_kcal_per_mol: -8.813108554099225
+    experiment:
+    - -8.813108554099225
+    ic50_nm: 380.0
+    title: '38'
+  '11':
+    dg_kcal_per_mol: -9.34007067810089
+    experiment:
+    - -9.34007067810089
+    ic50_nm: 157.0
+    title: '31'
+  '12':
+    dg_kcal_per_mol: -8.056038354565642
+    experiment:
+    - -8.056038354565642
+    ic50_nm: 1353.0
+    title: '48'
+  '13':
+    dg_kcal_per_mol: -9.189824984953418
+    experiment:
+    - -9.189824984953418
+    ic50_nm: 202.0
+    title: '58'
+  '14':
+    dg_kcal_per_mol: -7.433533221671021
+    experiment:
+    - -7.433533221671021
+    ic50_nm: 3844.0
+    title: '41'
+  '15':
+    dg_kcal_per_mol: -9.705871988271712
+    experiment:
+    - -9.705871988271712
+    ic50_nm: 85.0
+    title: '29'
+  '16':
+    dg_kcal_per_mol: -8.230340422871304
+    experiment:
+    - -8.230340422871304
+    ic50_nm: 1010.0
+    title: '54'
+  '17':
+    dg_kcal_per_mol: -8.385160265908176
+    experiment:
+    - -8.385160265908176
+    ic50_nm: 779.0
+    title: '47'
+  '18':
+    dg_kcal_per_mol: -9.226336062821307
+    experiment:
+    - -9.226336062821307
+    ic50_nm: 190.0
+    title: '26'
+  '19':
+    dg_kcal_per_mol: -10.70149860234946
+    experiment:
+    - -10.70149860234946
+    ic50_nm: 16.0
+    title: '55'
+  '2':
+    dg_kcal_per_mol: -9.25526600551884
+    experiment:
+    - -9.25526600551884
+    ic50_nm: 181.0
+    title: '30'
+  '20':
+    dg_kcal_per_mol: -8.569297824526043
+    experiment:
+    - -8.569297824526043
+    ic50_nm: 572.0
+    title: '20'
+  '21':
+    dg_kcal_per_mol: -10.539382251106323
+    experiment:
+    - -10.539382251106323
+    ic50_nm: 21.0
+    title: '57'
+  '22':
+    dg_kcal_per_mol: -8.519338852875997
+    experiment:
+    - -8.519338852875997
+    ic50_nm: 622.0
+    title: '42'
+  '23':
+    dg_kcal_per_mol: -10.201719201155072
+    experiment:
+    - -10.201719201155072
+    ic50_nm: 37.0
+    title: '35'
+  '24':
+    dg_kcal_per_mol: -10.0104064447629
+    experiment:
+    - -10.0104064447629
+    ic50_nm: 51.0
+    title: '44'
+  '25':
+    dg_kcal_per_mol: -8.61476226683618
+    experiment:
+    - -8.61476226683618
+    ic50_nm: 530.0
+    title: '63'
+  '26':
+    dg_kcal_per_mol: -10.781104847975167
+    experiment:
+    - -10.781104847975167
+    ic50_nm: 14.0
+    title: '69'
+  '27':
+    dg_kcal_per_mol: -10.459776005480617
+    experiment:
+    - -10.459776005480617
+    ic50_nm: 24.0
+    title: '52'
+  '28':
+    dg_kcal_per_mol: -7.597639966885478
+    experiment:
+    - -7.597639966885478
+    ic50_nm: 2919.0
+    title: '19'
+  '29':
+    dg_kcal_per_mol: -9.838901532909661
+    experiment:
+    - -9.838901532909661
+    ic50_nm: 68.0
+    title: '68'
+  '3':
+    dg_kcal_per_mol: -9.546769095564144
+    experiment:
+    - -9.546769095564144
+    ic50_nm: 111.0
+    title: '65'
+  '30':
+    dg_kcal_per_mol: -8.660328589482818
+    experiment:
+    - -8.660328589482818
+    ic50_nm: 491.0
+    title: '33'
+  '31':
+    dg_kcal_per_mol: -10.367877339253084
+    experiment:
+    - -10.367877339253084
+    ic50_nm: 28.0
+    title: '70'
+  '32':
+    dg_kcal_per_mol: -7.0410568869368895
+    experiment:
+    - -7.0410568869368895
+    ic50_nm: 7425.0
+    title: '53'
+  '33':
+    dg_kcal_per_mol: -9.480743420732322
+    experiment:
+    - -9.480743420732322
+    ic50_nm: 124.0
+    title: '64'
+  '34':
+    dg_kcal_per_mol: -7.242162689904869
+    experiment:
+    - -7.242162689904869
+    ic50_nm: 5299.0
+    title: '39'
+  '35':
+    dg_kcal_per_mol: -10.059099724083586
+    experiment:
+    - -10.059099724083586
+    ic50_nm: 47.0
+    title: '37'
+  '36':
+    dg_kcal_per_mol: -7.963573443612059
+    experiment:
+    - -7.963573443612059
+    ic50_nm: 1580.0
+    title: '23'
+  '37':
+    dg_kcal_per_mol: -8.194267817119279
+    experiment:
+    - -8.194267817119279
+    ic50_nm: 1073.0
+    title: '60'
+  '38':
+    dg_kcal_per_mol: -10.03425607615671
+    experiment:
+    - -10.03425607615671
+    ic50_nm: 49.0
+    title: '34'
+  '39':
+    dg_kcal_per_mol: -7.486704554666583
+    experiment:
+    - -7.486704554666583
+    ic50_nm: 3516.0
+    title: '36'
+  '4':
+    dg_kcal_per_mol: -7.983524073943439
+    experiment:
+    - -7.983524073943439
+    ic50_nm: 1528.0
+    title: '49'
+  '40':
+    dg_kcal_per_mol: -7.908126849156856
+    experiment:
+    - -7.908126849156856
+    ic50_nm: 1734.0
+    title: '46'
+  '5':
+    dg_kcal_per_mol: -8.924947583433283
+    experiment:
+    - -8.924947583433283
+    ic50_nm: 315.0
+    title: '24'
+  '6':
+    dg_kcal_per_mol: -10.307198438176487
+    experiment:
+    - -10.307198438176487
+    ic50_nm: 31.0
+    title: '67'
+  '7':
+    dg_kcal_per_mol: -7.739465113754106
+    experiment:
+    - -7.739465113754106
+    ic50_nm: 2301.0
+    title: '62'
+  '8':
+    dg_kcal_per_mol: -10.631280917333855
+    experiment:
+    - -10.631280917333855
+    ic50_nm: 18.0
+    title: '56'
+  '9':
+    dg_kcal_per_mol: -8.165525054054983
+    experiment:
+    - -8.165525054054983
+    ic50_nm: 1126.0
+    title: '59'
+shp2:
+  '1':
+    dg_kcal_per_mol: -9.813163955774067
+    experiment:
+    - -9.813163955774067
+    ic50_nm: 71.0
+    title: SHP099-1/Example 7
+  '10':
+    dg_kcal_per_mol: -9.125539301891706
+    experiment:
+    - -9.125539301891706
+    ic50_nm: 225.0
+    title: Example 6
+  '11':
+    dg_kcal_per_mol: -9.043949156672792
+    experiment:
+    - -9.043949156672792
+    ic50_nm: 258.0
+    title: Example 1
+  '12':
+    dg_kcal_per_mol: -5.496839904279451
+    experiment:
+    - -5.496839904279451
+    ic50_nm: 99000.0
+    title: '3'
+  '13':
+    dg_kcal_per_mol: -8.84866257914178
+    experiment:
+    - -8.84866257914178
+    ic50_nm: 358.0
+    title: Example 9
+  '14':
+    dg_kcal_per_mol: -9.772593116181342
+    experiment:
+    - -9.772593116181342
+    ic50_nm: 76.0
+    title: Example 8
+  '15':
+    dg_kcal_per_mol: -7.120376447643587
+    experiment:
+    - -7.120376447643587
+    ic50_nm: 6500.0
+    title: '7'
+  '16':
+    dg_kcal_per_mol: -9.133541586842062
+    experiment:
+    - -9.133541586842062
+    ic50_nm: 222.0
+    title: Example 24
+  '17':
+    dg_kcal_per_mol: -8.509830496972091
+    experiment:
+    - -8.509830496972091
+    ic50_nm: 632.0
+    title: Example 28
+  '18':
+    dg_kcal_per_mol: -7.1986738864261826
+    experiment:
+    - -7.1986738864261826
+    ic50_nm: 5700.0
+    title: '10'
+  '19':
+    dg_kcal_per_mol: -8.924947583433283
+    experiment:
+    - -8.924947583433283
+    ic50_nm: 315.0
+    title: Example 25
+  '2':
+    dg_kcal_per_mol: -9.296161665430411
+    experiment:
+    - -9.296161665430411
+    ic50_nm: 169.0
+    title: Example 22
+  '20':
+    dg_kcal_per_mol: -8.571385957230383
+    experiment:
+    - -8.571385957230383
+    ic50_nm: 570.0
+    title: Example 27
+  '21':
+    dg_kcal_per_mol: -8.079861009725702
+    experiment:
+    - -8.079861009725702
+    ic50_nm: 1300.0
+    title: '6'
+  '22':
+    dg_kcal_per_mol: -9.21391558695584
+    experiment:
+    - -9.21391558695584
+    ic50_nm: 194.0
+    title: Example 30
+  '23':
+    dg_kcal_per_mol: -7.61002174689354
+    experiment:
+    - -7.61002174689354
+    ic50_nm: 2859.0
+    title: Example 5
+  '24':
+    dg_kcal_per_mol: -8.25197768282051
+    experiment:
+    - -8.25197768282051
+    ic50_nm: 974.0
+    title: Example 4
+  '25':
+    dg_kcal_per_mol: -8.794573549990462
+    experiment:
+    - -8.794573549990462
+    ic50_nm: 392.0
+    title: Example 23
+  '26':
+    dg_kcal_per_mol: -8.26685150073919
+    experiment:
+    - -8.26685150073919
+    ic50_nm: 950.0
+    title: Example 3
+  '3':
+    dg_kcal_per_mol: -7.670082852637577
+    experiment:
+    - -7.670082852637577
+    ic50_nm: 2585.0
+    title: Example 29
+  '4':
+    dg_kcal_per_mol: -6.393512606739218
+    experiment:
+    - -6.393512606739218
+    ic50_nm: 22000.0
+    title: '11'
+  '5':
+    dg_kcal_per_mol: -5.858194599330334
+    experiment:
+    - -5.858194599330334
+    ic50_nm: 54000.0
+    title: '4'
+  '6':
+    dg_kcal_per_mol: -8.327575227657201
+    experiment:
+    - -8.327575227657201
+    ic50_nm: 858.0
+    title: Example 2
+  '7':
+    dg_kcal_per_mol: -9.838901532909661
+    experiment:
+    - -9.838901532909661
+    ic50_nm: 68.0
+    title: Example 14
+  '8':
+    dg_kcal_per_mol: -9.014642323758562
+    experiment:
+    - -9.014642323758562
+    ic50_nm: 271.0
+    title: Example 26
+  '9':
+    dg_kcal_per_mol: -6.754867301790102
+    experiment:
+    - -6.754867301790102
+    ic50_nm: 12000.0
+    title: SHP836-2
+syk:
+  '1':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265015
+  '10':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265009
+  '11':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265017
+  '12':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265000
+  '13':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265023
+  '14':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265004
+  '15':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265029
+  '16':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265025
+  '17':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265012
+  '18':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265030
+  '19':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265037
+  '2':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265031
+  '20':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265016
+  '21':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265032
+  '22':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3264997
+  '23':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265028
+  '24':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265018
+  '25':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265019
+  '26':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265027
+  '27':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265024
+  '28':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3264995
+  '29':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265033
+  '3':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265021
+  '30':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265020
+  '31':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265008
+  '32':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265002
+  '33':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265010
+  '34':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3259820
+  '35':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3264994
+  '36':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265006
+  '37':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265001
+  '38':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265026
+  '39':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265022
+  '4':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3264998
+  '40':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265003
+  '41':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3264999
+  '42':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265005
+  '43':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3264996
+  '44':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265011
+  '5':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265035
+  '6':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265013
+  '7':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265036
+  '8':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265034
+  '9':
+    dg_kcal_per_mol: {}
+    experiment:
+    - {}
+    ic50_nm: {}
+    title: CHEMBL3265014
+tnks2:
+  '1':
+    dg_kcal_per_mol: -11.064719218415272
+    experiment:
+    - -11.064719218415272
+    ic50_nm: 8.7
+    title: 3a
+  '10':
+    dg_kcal_per_mol: -12.567044427501449
+    experiment:
+    - -12.567044427501449
+    ic50_nm: 0.7
+    title: 8d
+  '11':
+    dg_kcal_per_mol: -10.539382251106323
+    experiment:
+    - -10.539382251106323
+    ic50_nm: 21.0
+    title: 5b
+  '12':
+    dg_kcal_per_mol: -10.112126770985798
+    experiment:
+    - -10.112126770985798
+    ic50_nm: 43.0
+    title: 5h
+  '13':
+    dg_kcal_per_mol: -10.185820624903423
+    experiment:
+    - -10.185820624903423
+    ic50_nm: 38.0
+    title: 8c
+  '14':
+    dg_kcal_per_mol: -10.825285151334102
+    experiment:
+    - -10.825285151334102
+    ic50_nm: 13.0
+    title: 5a
+  '15':
+    dg_kcal_per_mol: -11.031405452946393
+    experiment:
+    - -11.031405452946393
+    ic50_nm: 9.2
+    title: 5k
+  '16':
+    dg_kcal_per_mol: -8.448908215088853
+    experiment:
+    - -8.448908215088853
+    ic50_nm: 700.0
+    title: '7'
+  '17':
+    dg_kcal_per_mol: -10.568469057711507
+    experiment:
+    - -10.568469057711507
+    ic50_nm: 20.0
+    title: 5p
+  '18':
+    dg_kcal_per_mol: -8.603618740938732
+    experiment:
+    - -8.603618740938732
+    ic50_nm: 540.0
+    title: 1a
+  '19':
+    dg_kcal_per_mol: -11.15320147828683
+    experiment:
+    - -11.15320147828683
+    ic50_nm: 7.5
+    title: 5j
+  '2':
+    dg_kcal_per_mol: -10.326746460842665
+    experiment:
+    - -10.326746460842665
+    ic50_nm: 30.0
+    title: 5f
+  '20':
+    dg_kcal_per_mol: -11.884360889956014
+    experiment:
+    - -11.884360889956014
+    ic50_nm: 2.2
+    title: 8f
+  '21':
+    dg_kcal_per_mol: -11.590765479415973
+    experiment:
+    - -11.590765479415973
+    ic50_nm: 3.6
+    title: 3b
+  '22':
+    dg_kcal_per_mol: -10.8730035142027
+    experiment:
+    - -10.8730035142027
+    ic50_nm: 12.0
+    title: 8a
+  '23':
+    dg_kcal_per_mol: -12.112686040368947
+    experiment:
+    - -12.112686040368947
+    ic50_nm: 1.5
+    title: 5o
+  '24':
+    dg_kcal_per_mol: -10.952609759828407
+    experiment:
+    - -10.952609759828407
+    ic50_nm: 10.5
+    title: 5d
+  '25':
+    dg_kcal_per_mol: -12.767636145959873
+    experiment:
+    - -12.767636145959873
+    ic50_nm: 0.5
+    title: 5m
+  '26':
+    dg_kcal_per_mol: -10.781104847975167
+    experiment:
+    - -10.781104847975167
+    ic50_nm: 14.0
+    title: 5n
+  '27':
+    dg_kcal_per_mol: -10.022212004351475
+    experiment:
+    - -10.022212004351475
+    ic50_nm: 50.0
+    title: 5c
+  '3':
+    dg_kcal_per_mol: -10.307198438176487
+    experiment:
+    - -10.307198438176487
+    ic50_nm: 31.0
+    title: 8e
+  '4':
+    dg_kcal_per_mol: -10.155241548989428
+    experiment:
+    - -10.155241548989428
+    ic50_nm: 40.0
+    title: 5l
+  '5':
+    dg_kcal_per_mol: -12.003992988138055
+    experiment:
+    - -12.003992988138055
+    ic50_nm: 1.8
+    title: 8b
+  '6':
+    dg_kcal_per_mol: -10.8730035142027
+    experiment:
+    - -10.8730035142027
+    ic50_nm: 12.0
+    title: 5g
+  '7':
+    dg_kcal_per_mol: -9.998830133889935
+    experiment:
+    - -9.998830133889935
+    ic50_nm: 52.0
+    title: 1b
+  '8':
+    dg_kcal_per_mol: -10.170335045743176
+    experiment:
+    - -10.170335045743176
+    ic50_nm: 39.0
+    title: 5e
+  '9':
+    dg_kcal_per_mol: -12.153816918779366
+    experiment:
+    - -12.153816918779366
+    ic50_nm: 1.4
+    title: 5i
