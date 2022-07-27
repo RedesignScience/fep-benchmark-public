@@ -5,9 +5,11 @@ This repo serves 2 purposes:
 - stores a reference set of data for ligand-binding systems for bench-marking
 - demonstrates the recommended way of storing large sets of simulation data
 
-The repo is divided into 4 sections:
+The repo is divided into 2 sections:
 - `reference` contains benchmark reference data 
-- `pdb` contains all structures
+- `pdb` contains all structures with ligands docked into crystal structures
+
+IC50s from the Christina Schindlers reference set (SDF files) have been extracted and deposited into ic50.yaml, along with the numbering used in the PDB subfolder and the original numbering. Note that an indexing error was identified from the original set and corrected here. 
 
 ## Reference Data
 
